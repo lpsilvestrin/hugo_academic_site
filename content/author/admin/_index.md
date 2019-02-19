@@ -20,16 +20,17 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Machine Learning",
+  "Deep Learning",
+  "Time Series",
+  "Optimization"
 ]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+#  course = "MSc "
+#  institution = "Stanford University"
+#  year = 2012
 
 [[education.courses]]
   course = "MSc in Data Science"
@@ -49,7 +50,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#mailto:l.p.silvestrin@vu.nl"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:l.p.silvestrin@vu.nl"  # For a direct email link, use "mailto:test@example.org".
 
 #[[social]]
 #  icon = "twitter"
