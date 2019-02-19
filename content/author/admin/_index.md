@@ -59,7 +59,7 @@ interests = [
 [[social]]
   icon = "researchgate"
   icon_pack = "fab"
-  link = "https://github.com/lpsilves"
+  link = "https://www.researchgate.net/profile/Luis_Silvestrin"
 
 [[social]]
   icon = "google-scholar"
@@ -81,6 +81,8 @@ interests = [
 
 +++
 
-Luis Silvestrin is an artificial intelligence PhD student at the Vrije Universiteit Amsterdam. He is interested in Deep Learning applications to sensorial data and time-series. He is working conjointly with Tata Steel at their cold rolling mill to predict maintenance on their machines or the quality of the pressed still based on sensors.
+Luis Silvestrin is a PhD student at the Vrije Universiteit Amsterdam, working in the <a href="https://www.cs.vu.nl/ci">Computational Intelligence group</a>. He is interested in Deep Learning applications to sensorial data and time-series.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The research project is carried conjointly with <a href="https://www.tatasteeleurope.com/">Tata Steel</a> at their cold rolling mill to predict maintenance on their machines or the quality of the pressed steel. It consists of developing machine learning techniques to make predictions based on the sensors signals collected by the company, such as the steel quality or the condition of the factory's equipment.
+ 
+
