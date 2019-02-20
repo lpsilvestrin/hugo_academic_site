@@ -82,6 +82,6 @@ interests = [
 
 +++
 
-Luis Silvestrin is a PhD student at the Vrije Universiteit Amsterdam, working in the <a href="https://www.cs.vu.nl/ci">Computational Intelligence group</a>. He is interested in Deep Learning applications to sensorial data and time-series.
+Luis is a PhD student at the Vrije Universiteit Amsterdam, working in the <a href="https://www.cs.vu.nl/ci">Computational Intelligence group</a>. He is interested in Deep Learning applications to sensorial data and time-series.
 
 The research project is carried conjointly with <a href="https://www.tatasteeleurope.com/">Tata Steel</a> at their cold rolling mill to predict maintenance on their machines or the quality of the pressed steel. It consists of developing machine learning techniques to make predictions based on the sensors signals collected from the factory's equipment.
